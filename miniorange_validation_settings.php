@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: SMS/Order Notification & OTP verification on WooCommerce
+ * Plugin Name: SMS/Order Notification|OTP verification|Passwordless login
  * Plugin URI: http://miniorange.com/miniorange-woocommerce-otp-plugin
  * Description: Email & SMS OTP Verification for all WooCommerce forms. WooCommerce SMS Notification. PasswordLess Login. 24/7 support.
  * Version: 1.0.0

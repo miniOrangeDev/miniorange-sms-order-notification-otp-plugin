@@ -1,4 +1,4 @@
-﻿=== SMS/Order Notification & OTP verification on WooCommerce ===
+﻿=== SMS/Order Notification|OTP verification|Passwordless login ===
 Contributors: cyberlord92, geniuszealot
 Donate link: https://miniorange.com/
 Tags: OTP, Login with OTP, WooCommerce SMS Notification, WooCommerce OTP, Order Notification, OTP verification, OTP registration,  email verification, phone verification, one time passcode, customer notification, passwordless login
